@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>DGTHUM</title>
+    <link href="https://codingdianat.github.io/digitalshakespeare/feed.xml" rel="self" />
+    <link href="https://codingdianat.github.io/digitalshakespeare" />
+    <updated>2022-10-12T10:22:00-07:00</updated>
+    <author>
+        <name>Diana</name>
+    </author>
+    <id>https://codingdianat.github.io/digitalshakespeare</id>
+
+    <entry>
+        <title>Welcome to Digital Shakespeare</title>
+        <author>
+            <name>Diana</name>
+        </author>
+        <link href="https://codingdianat.github.io/digitalshakespeare/welcome-to-digital-shakespeare.html"/>
+        <id>https://codingdianat.github.io/digitalshakespeare/welcome-to-digital-shakespeare.html</id>
+
+        <updated>2022-10-12T10:22:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Check out this visualization I made with voyant tools
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/HUHEPo_g0AQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--success">Check out this visualization I made with <a href="voyant-tools.org" target="_blank" rel="noopener noreferrer">voyant tools</a></p>
+<iframe loading="lazy" style="width: 100%; height: 800px;" src="https://voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&amp;corpus=shakespeare"></iframe>
+            ]]>
+        </content>
+    </entry>
+</feed>

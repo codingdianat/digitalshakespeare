@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://codingdianat.github.io/digitalshakespeare/sitemap.xml
